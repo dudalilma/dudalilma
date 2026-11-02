@@ -11,12 +11,14 @@ Explorando ideias, aprendendo linguagens e construindo meu caminho na tecnologia
 - 💻 Estudante de tecnologia
 - → Programadora de Sistemas
 <div align="left">
+<img src="https://img.shields.io/badge/PYTHON-F2E8DC?style=for-the-badge&logo=python&logoColor=795C46&labelColor=F2E8DC" />
 
-<img src="https://img.shields.io/badge/PYTHON-F2E8DC?style=for-the-badge&logo=python&logoColor=%233776AB" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F2E8DC?style=for-the-badge&logo=javascript&logoColor=795C46&labelColor=F2E8DC" />
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-F2E8DC?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/%3C%2F%3E_DEVELOPER-F2E8DC?style=for-the-badge&logoColor=795C46&labelColor=F2E8DC" />
 
-<img src="https://img.shields.io/badge/%3C%2F%3E%20DEVELOPER-F2E8DC?style=for-the-badge&logoColor=%23795C46" />
+</div>
+
 
 </div>
 </td>
