@@ -1,31 +1,30 @@
+<table>
+<tr>
+<td width="60%">
 
-# ୨୧ Olá, mundo! 
+# ୨୧ Olá, mundo!
 
-###  | Tecnologia & Desenvolvimento
+### │ Tecnologia & Desenvolvimento
 
 Explorando ideias, aprendendo linguagens e construindo meu caminho na tecnologia.
 
-
-</div>
-
----
 - 💻 Estudante de tecnologia
-- → Progrmadora de Sistemas
-
+- → Programadora de Sistemas
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-F2E8DC?style=for-the-badge&logo=python&logoColor=795C46)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2E8DC?style=for-the-badge&logo=javascript&logoColor=795C46)
-![Developer](https://img.shields.io/badge/%3C%2F%3E-DEVELOPER-F2E8DC?style=for-the-badge&labelColor=F2E8DC)
+<img src="https://img.shields.io/badge/PYTHON-F2E8DC?style=for-the-badge&logo=python&logoColor=%233776AB" />
 
+<img src="https://img.shields.io/badge/JAVASCRIPT-F2E8DC?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-</div>
-
----
-
-<div align="center">
-
-*“Transformando ideias em tecnologia, e tecnologia em futuro.”*
+<img src="https://img.shields.io/badge/%3C%2F%3E%20DEVELOPER-F2E8DC?style=for-the-badge&logoColor=%23795C46" />
 
 </div>
-```
+</td>
+
+<td width="40%" align="center">
+
+<img src="./notebook.svg" width="280">
+
+</td>
+</tr>
+</table>
