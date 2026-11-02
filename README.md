@@ -18,6 +18,7 @@ Explorando ideias, aprendendo linguagens e construindo meu caminho na tecnologia
 
 ![Python](https://img.shields.io/badge/Python-F2E8DC?style=for-the-badge&logo=python&logoColor=795C46)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F2E8DC?style=for-the-badge&logo=javascript&logoColor=795C46)
+![Developer](https://img.shields.io/badge/Developer-F2E8DC?style=for-the-badge&logo=code&logoColor=795C46)
 
 
 </div>
